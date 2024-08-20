@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of the United States?",
+    "answer": "Washington D.C.",
+    "hint": "It's a district, not a state."
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answer": "Ottawa",
+    "hint": "It's located in the province of Ontario."
+  },
+  {
+    "question": "What is the capital of the United Kingdom?",
+    "answer": "London",
+    "hint": "It's a famous city known for its iconic landmarks like Big Ben and Buckingham Palace."
+  },
+  {
+    "question": "What is the capital of France?",
+    "answer": "Paris",
+    "hint": "It's known as the 'City of Love' and is famous for the Eiffel Tower."
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "answer": "Berlin",
+    "hint": "It was once divided by the Berlin Wall during the Cold War."
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "answer": "Rome",
+    "hint": "It's an ancient city known for the Colosseum and the Vatican City."
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "answer": "Madrid",
+    "hint": "It's located in the heart of the Iberian Peninsula."
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "answer": "Moscow",
+    "hint": "It's the largest city in Europe and home to the famous Red Square."
+  },
+  {
+    "question": "What is the capital of China?",
+    "answer": "Beijing",
+    "hint": "It's known for its historical sites like the Forbidden City and the Great Wall of China."
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "Tokyo",
+    "hint": "It's one of the most populous metropolitan areas in the world."
+  }
+]

@@ -1,0 +1,75 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "StartIntent",
+          "samples": [
+            "start a quiz",
+            "a quiz",
+            "start quiz"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [
+            {
+              "name": "answer",
+              "type": "AMAZON.SearchQuery"
+            },
+            {
+              "name": "city",
+              "type": "AMAZON.City"
+            }
+          ],
+          "name": "AnswerIntent",
+          "samples": [
+            "{city}",
+            "let\u0027s go with {answer}",
+            "it is {answer}",
+            "the answer is {answer}",
+            "it\u0027s {answer}"
+          ]
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "Berlin"
+              }
+            },
+            {
+              "name": {
+                "value": "Paris"
+              }
+            }
+          ],
+          "name": "Answer"
+        }
+      ],
+      "invocationName": "teach me"
+    }
+  }
+}
